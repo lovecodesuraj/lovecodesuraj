@@ -13,8 +13,8 @@
 ### 👀 A little bit about me...
 * Data & AI Engineer [@Xenonstack](https://www.xenonstack.com/)  (06/24 - Present)
 * Web-Dev Lead @ Antariskh NITKKR (2022 -2024).
-* Previously worked as Fullstack (MERN) Mentor at [@HHC](https://hashhackcode.com/)
-* SDE Intern at [@Curaxo](https://curaxo.in/)
+* SDE Intern at [@Curaxo](https://curaxo.in/) (01/2023 - 06/2023)
+* Fullstack (MERN) Mentor at [@HHC](https://hashhackcode.com/) ( 01/2021 - 03/2021)
      
 
 ### ✨ Hobbies
